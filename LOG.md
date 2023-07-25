@@ -28,8 +28,21 @@
 # Todo
 
 # Procedure
+- enter log
+- check todo
+- readme version tarih guncelleme
+- timelog gir
+- push
 
 # Log 
+- [0.11] add: Virtual environment
+    - 25-Jul-2023 
+        - add: basic python template
+        - add: main, virtual environment, variables, secret configuration test
+        - add: install discord.py
+        - add: install environment variables package
+        - add: install virtual environment
+
 - [0.10] add: Set project template
     - 25-Jul-2023 add: Set project template
 

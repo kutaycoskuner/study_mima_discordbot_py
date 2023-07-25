@@ -3,7 +3,7 @@ Multi-purpose Discord bot
 
 | Project Started | Last Update | Version |
 | :-------------- | :---------- | :-----: |
-| 25 Jul 2023     | 23 Jul 2023 | 0.10    |
+| 25 Jul 2023     | 25 Jul 2023 | 0.11    |
 
 # Table of Contents
 
@@ -22,6 +22,11 @@ Multi-purpose Discord bot
 # References and Links
 - Learning
 - Dependencies
+    - python
+    - pip
+    - pip install venv
+    - pip install python-dotenv
+    - discord.py
 - Data
 
 [Return to top]()
