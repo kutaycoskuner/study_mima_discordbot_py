@@ -3,7 +3,7 @@ Multi-purpose Discord bot
 
 | Project Started | Last Update | Version |
 | :-------------- | :---------- | :-----: |
-| 25 Jul 2023     | 25 Jul 2023 | 0.11    |
+| 25 Jul 2023     | 25 Jul 2023 | 0.12    |
 
 # Table of Contents
 

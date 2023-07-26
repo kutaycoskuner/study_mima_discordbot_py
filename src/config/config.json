@@ -1,0 +1,12 @@
+{
+    "isTest"                : true
+    ,"version"              : "2.58"
+    ,"prefix"               : "//"
+    ,"testprefix"           : "//"
+    ,"invisibleCategories"  : ["music", "template"]
+
+    ,"botId"                : "561591171021799434"
+    ,"testbotId"            : "561591171021799434"
+    ,"testserverIds"        : ["186241329469194251"]
+    ,"devIds"               : ["186240632438784000"]
+}

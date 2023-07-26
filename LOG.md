@@ -35,6 +35,11 @@
 - push
 
 # Log 
+- [0.12] add: Parsing data from json
+    - 26-Jul-2023
+        - add: parsing data from json file for config
+        - add: copied config data from old
+
 - [0.11] add: Virtual environment
     - 25-Jul-2023 
         - add: basic python template
